@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.gitignore
+.cursor
+*.md
+.env
+.env.*
+!.env.example
+npm-debug.log*
+coverage
+.turbo
+.vercel
+**/.DS_Store
